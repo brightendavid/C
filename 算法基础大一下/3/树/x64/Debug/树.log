@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(树.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+E:\21\3\树\源.cpp(213,9): warning C4101: “j”: 未引用的局部变量
+  树.vcxproj -> E:\21\3\树\x64\Debug\图.exe

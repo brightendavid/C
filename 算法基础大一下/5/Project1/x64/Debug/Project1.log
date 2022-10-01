@@ -1,0 +1,112 @@
+﻿  GA.cpp
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“Triangle”的左侧
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(28,2): warning C4091: “typedef ”: 没有声明变量时忽略“Scallop”的左侧
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(36,21): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(36,41): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(41,3): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(41,42): error C2065: “end”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(42,10): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(42,19): error C2065: “end”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(44,6): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(44,23): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(44,40): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(44,57): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(45,4): error C2065: “begin”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(78,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(108,22): error C2065: “j”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(108,49): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(108,78): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(109,22): error C2065: “j”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(109,49): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(109,78): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(110,22): error C2065: “j”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(110,49): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(110,78): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(111,22): error C2065: “j”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(137,2): error C2065: “pair”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(137,18): error C2062: 意外的类型“int”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(138,2): error C2065: “pair”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(138,18): error C2062: 意外的类型“int”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(142,3): error C2065: “min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(142,18): error C2065: “min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(142,44): error C2065: “i”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(142,60): error C2065: “min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(142,74): error C2065: “pair”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(142,90): error C2062: 意外的类型“int”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(143,6): error C2065: “min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(148,4): error C2065: “second_min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(148,26): error C2065: “second_min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(148,75): error C2065: “second_min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(148,96): error C2065: “pair”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(148,112): error C2062: 意外的类型“int”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(153,4): error C2059: 语法错误:“while”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(154,2): error C2059: 语法错误:“do”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(154,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(154,5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(156,4): error C2059: 语法错误:“while”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,2): error C2059: 语法错误:“for”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,20): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,20): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,38): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,37): error C2086: “int j”: 重定义
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157): message : 参见“j”的声明
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(157,40): error C2059: 语法错误:“)”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(158,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(158,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(172,6): error C2065: “second_min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(172,31): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(172,31): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(172,42): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(172,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(172,32): error C2146: 语法错误: 缺少“;”(在标识符“fit_value”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(175,6): error C2065: “min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(175,24): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(175,24): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(175,37): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(175,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(175,25): error C2146: 语法错误: 缺少“;”(在标识符“update_flag”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(176,6): error C2065: “second_min_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(176,31): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(176,31): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(176,44): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(176,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(176,32): error C2146: 语法错误: 缺少“;”(在标识符“update_flag”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(200,1): error C2059: 语法错误:“}”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(200,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(205,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(205,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(250,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(281,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(291,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(307,3): error C2065: “max_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(307,18): error C2065: “max_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(307,60): error C2065: “max_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(307,74): error C2065: “pair”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(307,90): error C2062: 意外的类型“int”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(310,19): error C2065: “max_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(310,39): error C2065: “dst_image”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(313,2): error C2065: “compression_params”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(313,31): error C2065: “CV_IMWRITE_PNG_COMPRESSION”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(314,2): error C2065: “compression_params”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,2): error C2065: “string”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,9): error C2146: 语法错误: 缺少“;”(在标识符“fitness_str”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,9): error C2065: “fitness_str”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,37): error C2065: “max_scallop”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,23): error C3861: “to_string”: 找不到标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,68): error C2065: “generation_str”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(315,85): error C3861: “to_string”: 找不到标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(316,2): error C2065: “string”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(316,9): error C2146: 语法错误: 缺少“;”(在标识符“str”的前面)
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(316,9): error C2065: “str”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(316,104): error C3688: 文本后缀“浠ｆ渶浼樻墖璐”无效；未找到文文本运算符或文本运算符模板“operator """"浠ｆ渶浼樻墖璐”
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(316,106): error C2065: “fitness_str”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(317,10): error C2065: “str”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(317,15): error C2065: “dst_image”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(317,26): error C2065: “compression_params”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(326,44): error C2065: “CV_LOAD_IMAGE_UNCHANGED”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(327,2): error C2065: “ideal_image_length”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(336,31): error C2065: “ITER_NUM”: 未声明的标识符
+C:\Users\brighten\AppData\Local\Temp\GA-Firefox--master\GA-Firefox--master\GA.cpp(336,39): fatal error C1003: 错误计数超过 100；正在停止编译

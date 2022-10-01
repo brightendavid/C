@@ -1,0 +1,8 @@
+﻿  源.cpp
+E:\21\4\Project1\源.cpp(28,12): warning C4101: “k”: 未引用的局部变量
+E:\21\4\Project1\源.cpp(28,9): warning C4101: “j”: 未引用的局部变量
+E:\21\4\Project1\源.cpp(79,6): warning C4101: “x”: 未引用的局部变量
+E:\21\4\Project1\源.cpp(104,7): warning C4101: “p”: 未引用的局部变量
+E:\21\4\Project1\源.cpp(120,9): warning C4101: “j”: 未引用的局部变量
+E:\21\4\Project1\源.cpp(132,6): warning C4101: “j”: 未引用的局部变量
+  Project1.vcxproj -> E:\21\4\Project1\x64\Debug\Project1.exe

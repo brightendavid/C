@@ -1,0 +1,2 @@
+E:\21\6\Project1\x64\Debug\签名.exe
+E:\21\6\Project1\x64\Debug\签名.pdb

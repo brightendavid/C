@@ -1,0 +1,4 @@
+﻿  solve.cpp
+C:\Users\brighten\Desktop\数据结构大作业\1912190120-李泓易\solve.cpp(159,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\brighten\Desktop\数据结构大作业\1912190120-李泓易\solve.cpp(164,25): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> E:\21\2\Project1\x64\Debug\Project1.exe
